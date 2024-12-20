@@ -17,6 +17,9 @@
 7. Determine BMI categories (e.g., Underweight, Normal weight, Overweight, Obesity) based on the calculated BMI. <br/>
 8. Display the BMI result and category. <br/>
 
+# **LIVE DEMO**
+You Can access a live demo of this BMI Calculator by following this link: https://bmicalcisarangl.netlify.app/
+
 
 
 
